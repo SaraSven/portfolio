@@ -16,6 +16,9 @@ const portfolioApp = new Vue({
               <li>
                 <image-link pic="work2.png" size="250" url=""/>
               </li>              
+              <li>
+              <image-link pic="work3.png" size="250" url="https://sarasven.github.io/portfolio/"/>
+            </li>   
             </ul>
             `
 });
